@@ -8,7 +8,7 @@ WIP. Uses submodules for themes.
 First, install [hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
 
 ```
-git clone --recursive git@github.com:cayleygraph/cayley-docs.git
+git clone --recursive git@github.com:cayleygraph/cayley-docs.git && cd cayley-docs
 ```
 
 ```
