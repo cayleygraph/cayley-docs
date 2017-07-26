@@ -1,0 +1,7 @@
+baseURL = "http://docs.cayley.io/"
+languageCode = "en-us"
+title = "Cayley Documentation"
+theme = "docdock"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
